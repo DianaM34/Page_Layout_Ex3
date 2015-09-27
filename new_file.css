@@ -1,0 +1,31 @@
+.container{
+	background: #FFFF99;
+	border: 4px #2E8B57 solid;
+}
+nav{
+	float: right;
+	direction: rtl;
+	text-align:center;
+	padding: 10px;
+}
+.clearfix{
+	clear: both;
+}
+li{
+	list-style-type: none;
+	border: solid 2px black;
+	margin-bottom: 2px;
+	padding:2px;
+	width:80px;
+}
+ul{
+	padding: 0px;
+	margin: 0px;
+}
+#content{
+	background-color: #BCDB70;
+	margin: 10px;
+	padding: 15px;
+	width: 87%;
+	text-align: center;
+}
